@@ -1,5 +1,5 @@
 h1{
-    background-color: rgb(201, 32, 46);
+    background-color: blue;
 }
 
 body{
@@ -7,11 +7,5 @@ body{
 }
 
 p{
-    color: rgb(221, 78, 214);
-}
-
-h3{
-    color: rgb(36, 120, 122);
-    
-
+    color: magenta;
 }
