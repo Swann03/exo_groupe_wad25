@@ -1,11 +1,11 @@
 h1{
-    background-color: rgb(61, 33, 2);
+    background-color: blue;
 }
 
 body{
-    color: rgb(81, 155, 59);
+    color: gray;
 }
 
 p{
-    color: brown;
+    color: magenta;
 }
